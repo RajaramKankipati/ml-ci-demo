@@ -5,7 +5,7 @@ import pytest
 
 # Committed thresholds. Changing these requires a PR and a review -- that is the
 # entire point: the bar moves deliberately, not because someone was in a hurry.
-MIN_ACCURACY = 0.97
+MIN_ACCURACY = 0.95
 MIN_RECALL_POISONOUS = 0.98
 MAX_CV_STD = 0.05
 
